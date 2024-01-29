@@ -1,6 +1,7 @@
 /* Global Styles */
 body {
     background-color: #400505;
+    font-family: 'Roboto', sans-serif;
 }
 
 img {
@@ -30,6 +31,7 @@ h2,
 h3 {
     text-align: center;
     color: #400505;
+    font-family: 'Workbench', sans-serif;
 }
 
 /* Desktop Styles */
