@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" connectionConfig="{&quot;serverAliveInterval&quot;:300}" id="f9dd25e1-7831-4392-9211-f87ce373382f" customName="Dreamhost" nameFormat="CUSTOM" useOpenSSHConfig="true">
+        <option name="customName" value="Dreamhost" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
